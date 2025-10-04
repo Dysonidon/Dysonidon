@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jacob Broomfield
 - 👀 I’m interested in programing, boxing and hillwalking.
-- 🌱 I’m currently learning Java object oriented programming in year 1 of university.
+- 🌱 I’m currently learning app development, robotics and and game dev in year 3 of university.
 - 📫 How to reach me: jacobabroomfield@outlook.com
 
 <!---
